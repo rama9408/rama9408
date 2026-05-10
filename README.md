@@ -7,7 +7,8 @@ I am a B.Tech Honours student in **Computer Science and Engineering**, specializ
 * **AI/ML:** Supervised & Unsupervised Learning, Predictive Modeling, Scikit-Learn, Pandas
 * **Deployment:** Streamlit, Django, React
 * **Cloud & Tools:** AWS, Google Cloud, Git/GitHub
-* **Core CS:** Data Structures & Algorithms, Operating Systems (GATE 2026 Qualified)
+* **GATE 2026 Qualified:** Cleared GATE with AIR 2965
+* **Core CS:** Data Structures & Algorithms, Operating Systems.
 
 ### 📊 Key Projects
 * **[Student Performance Predictor](https://github.com/rama9408/Student_Perfromance):** A classification-based model predicting student success (Pass/Fail) using factors like study hours, attendance, and previous scores.
@@ -20,5 +21,5 @@ I am a B.Tech Honours student in **Computer Science and Engineering**, specializ
 * Actively seeking a **Summer Internship in AI/ML** to apply my skills to real-world industry challenges.
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email]
+* **LinkedIn:** (https://www.linkedin.com/in/ramanand-tiwari-462b55293/)
+* **Email:** 2302031800103@silveroakuni.ac.in
